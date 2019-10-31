@@ -1,4 +1,7 @@
-""" Print the combinaions of 3 digit number """
+""" 
+Print the combinaions of 3 digit number 
+"""
+
 n = input("Enter the value\n")
 a = [int(i) for i in str(n)]
 for i in range(len(a)):
