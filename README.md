@@ -1,2 +1,2 @@
 # Python
-Practical python codes here
+Practical python codes with solution.
